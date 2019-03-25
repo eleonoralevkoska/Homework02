@@ -1,0 +1,7 @@
+C:\Users\ELEONORA\Desktop\homework\Homework02\task01\obj\Debug\task01.csprojAssemblyReference.cache
+C:\Users\ELEONORA\Desktop\homework\Homework02\task01\obj\Debug\task01.csproj.CoreCompileInputs.cache
+C:\Users\ELEONORA\Desktop\homework\Homework02\task01\bin\Debug\task01.exe.config
+C:\Users\ELEONORA\Desktop\homework\Homework02\task01\bin\Debug\task01.exe
+C:\Users\ELEONORA\Desktop\homework\Homework02\task01\bin\Debug\task01.pdb
+C:\Users\ELEONORA\Desktop\homework\Homework02\task01\obj\Debug\task01.exe
+C:\Users\ELEONORA\Desktop\homework\Homework02\task01\obj\Debug\task01.pdb
